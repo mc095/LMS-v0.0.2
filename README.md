@@ -1,13 +1,13 @@
-LMS-v0.0.2 /
-		Frontend /
-			├── node_modules
-			├── public
-			│     ├── vite.svg
-			├── src
-			│     ├── assets
-			│     │     ├── react.svg
-			|     |
-			│     ├── components
+	Frontend /
+	    ├── node_modules
+	    ├── public
+	    │     ├── vite.svg
+     	    |
+	    ├── src
+	    │     ├── assets
+	    │     │     ├── react.svg
+	    |     |
+	    │     ├── components
 	    │     │     ├── Login.jsx
 	    |     |     |-- CourseCard.jsx
 	    |     |     |-- CoursesSection.jsx
@@ -41,7 +41,7 @@ LMS-v0.0.2 /
 	    |-- tailwind.config.js
 	    ├── vite.config.js
 
-	Backend /
+     	    Backend /
 		├── config                                 
 		│   ├── db.js                  # Database configuration
 		│   ├── env.js                 # Environment variable validation
