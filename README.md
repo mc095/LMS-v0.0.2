@@ -42,13 +42,6 @@
 	    ├── vite.config.js
 
 
-
-
-
-
-
-
-
         Backend /
 		├── config                                 
 		│   ├── db.js                  # Database configuration
