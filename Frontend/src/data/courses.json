@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript Fundamentals",
+    "description": "Learn the basics of JavaScript and start building interactive web applications.",
+    "image": "https://arielfuggini.com/static/29a9f86a9bd7efd96ee9ce8b13124303/a41d1/javascript.jpg",
+    "duration": "4 hours",
+    "lessons": 24
+  },
+  {
+    "id": 2,
+    "title": "React for Beginners",
+    "description": "Master React and build modern, scalable web applications.",
+    "image": "https://unicorn.dev/wp-content/uploads/2023/01/react.png",
+    "duration": "6 hours",
+    "lessons": 30
+  },
+  {
+    "id": 3,
+    "title": "Node.js and Express",
+    "description": "Learn backend development with Node.js and Express.",
+    "image": "https://miro.medium.com/v2/resize:fit:1400/1*1MKqqYokjCZaFFoRfTaNTw.jpeg",
+    "duration": "5 hours",
+    "lessons": 20
+  },
+  {
+    "id": 4,
+    "title": "Tailwind CSS Crash Course",
+    "description": "Build beautiful, responsive UIs with Tailwind CSS.",
+    "image": "https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/tailwindcss-1633184775.webp",
+    "duration": "3 hours",
+    "lessons": 15
+  }
+]
