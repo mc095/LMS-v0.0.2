@@ -1,4 +1,5 @@
-	Frontend /
+```
+ Frontend /
 	    ├── node_modules
 	    ├── public
 	    │     ├── vite.svg
@@ -40,8 +41,9 @@
 	    ├── README.md
 	    |-- tailwind.config.js
 	    ├── vite.config.js
+```
 
-
+```
         Backend /
 		├── config                                 
 		│   ├── db.js                  # Database configuration
@@ -65,3 +67,4 @@
 		├── package-lock.json
 		├── package.json
 		├── server.js                  # Server entry point
+```
